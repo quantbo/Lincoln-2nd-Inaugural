@@ -3,7 +3,7 @@ Noodle recipe:
 noodles
 onions 
 sauerkraut
-broth
+broth [can be vegetable, mushroom, or onion]
 beans
 
 Heat and eat. Yummy!

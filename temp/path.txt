@@ -1,0 +1,203 @@
+2.0
+2.0
+2.0
+2.0
+;C:
+;C:
+;C:
+;C:
+;C:
+;C:
+;C:
+;C:
+;C:
+;C:
+;C:
+;C:
+;C:
+;c:
+;C:
+;C:
+_code_share
+Android
+Android
+AppData
+AppData
+AppData
+AppData
+AppData
+atom
+au3
+AutoIt3
+BIN
+BIN
+bin
+bin
+bin
+bin
+bin;.;;.;
+BIN;C:
+BIN;C:
+BIN;C:
+bin;C:
+bin;c:
+bin;C:
+bin;C:
+Boxcryptor
+Brackets
+command;C:
+COMMON;C:
+Common;C:
+ConEmu
+ConEmu;C:
+ConEmu;C:
+DAL;C:
+DAL;C:
+DAL;C:
+DAL;C:
+Dropbox
+GCC-4.6.3
+gcc-4.6.3
+ICLS CLIENT
+ICLS CLIENT
+iCLS Client
+iCLS Client
+IDM Computer Solutions
+INTEL
+INTEL
+INTEL
+INTEL
+INTEL
+INTEL
+INTEL
+INTEL
+Intel
+Intel
+Intel
+Intel
+Intel
+Intel
+Intel
+Intel
+INTEL(R) MANAGEMENT ENGINE COMPONENTS
+INTEL(R) MANAGEMENT ENGINE COMPONENTS
+INTEL(R) MANAGEMENT ENGINE COMPONENTS
+INTEL(R) MANAGEMENT ENGINE COMPONENTS
+Intel(R) Management Engine Components
+Intel(R) Management Engine Components
+Intel(R) Management Engine Components
+Intel(R) Management Engine Components
+IPT;C:
+IPT;C:
+IPT;C:
+IPT;C:
+Java
+Java
+javapath;C:
+jdk1.8.0_73
+Local
+Local
+Local
+Local
+Local
+Main
+Main
+Main
+Main
+Main
+Main
+NVIDIA CORPORATION
+NVIDIA Corporation
+OPENCL SDK
+OPENCL SDK
+OpenCL SDK
+OpenCL SDK
+Oracle
+PATH=C:
+Phone
+Phone
+PHYSX
+PhysX
+platform-tools;C:
+PROGRAM FILES
+PROGRAM FILES
+PROGRAM FILES
+Program Files
+Program Files
+Program Files
+Program Files
+Program Files
+Program Files
+Program Files
+PROGRAM FILES (X86)
+PROGRAM FILES (X86)
+PROGRAM FILES (X86)
+PROGRAM FILES (X86)
+PROGRAM FILES (X86)
+PROGRAM FILES (X86)
+Program Files (x86)
+Program Files (x86)
+Program Files (x86)
+Program Files (x86)
+Program Files (x86)
+Program Files (x86)
+Program Files (x86)
+Program Files (x86)
+Program Files (x86)
+Program Files (x86)
+Program Files (x86)
+Program Files (x86)
+ProgramData
+Programs
+Programs
+Python
+Python
+Python35-32
+Python35-32
+R
+R-3.2.2patched
+RTOOLS
+RTOOLS
+Rtools
+Rtools
+Scripts
+sdk
+sdk
+Skype
+Skype
+SQLite
+SYSTEM32
+System32
+System32
+System32
+system32;.;C:
+SYSTEM32;C:
+TDM-GCC-64
+TDM-GCC-64
+tools;C:
+UltraEdit
+Users
+Users
+Users
+Users
+Users
+Users
+v1.0
+v1.0
+WBEM;C:
+Wbem;C:
+Windows
+Windows
+Windows
+Windows
+Windows
+Windows
+Windows;C:
+Windows;C:
+WindowsPowerShell
+WindowsPowerShell
+x64
+X64;C:
+x64;C:
+X86;C:
+x86;C:

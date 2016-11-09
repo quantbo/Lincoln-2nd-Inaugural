@@ -1,0 +1,768 @@
+2015-07-25_09-02-52 elapsed_time_init: INIT: fromto(23, 27)
+2015-07-25_15-39-01 elapsed_time_stop: STOP: fromto(23, 27) ~= [s/m/h] 23768.99   396.15   6.60 
+2015-07-26_09-43-39 elapsed_time_init: INIT: fromto(10, 10)
+2015-07-26_12-07-39 elapsed_time_stop: STOP: fromto(10, 10) ~= [s/m/h] 8639.93    144.00   2.40 
+2015-07-26_12-37-31 elapsed_time_init: INIT: fromto(27, 27)
+2015-07-26_12-46-52 elapsed_time_stop: STOP: fromto(27, 27) ~= [s/m/h] 560.09     9.33     0.16 
+2015-07-26_13-07-33 elapsed_time_init: INIT: fromto(11, 27)
+2015-07-27_02-31-28 elapsed_time_stop: STOP: fromto(11, 27) ~= [s/m/h] 48234.64   803.91   13.40
+2015-07-27_02-31-28 elapsed_time_init: INIT: fromto(11, 27)
+2015-07-27_17-33-47 elapsed_time_stop: STOP: fromto(11, 27) ~= [s/m/h] 54138.75   902.31   15.04
+2015-07-27_17-33-47 elapsed_time_init: INIT: fromto(11, 27)
+2015-07-28_07-41-38 elapsed_time_stop: STOP: fromto(11, 27) ~= [s/m/h] 50871.64   847.86   14.13
+2015-07-28_07-46-01 elapsed_time_init: INIT: fromto(27, 27)
+2015-07-28_07-49-31 elapsed_time_stop: STOP: fromto(27, 27) ~= [s/m/h] 209.90     3.50     0.06 
+2015-07-28_07-55-12 elapsed_time_init: INIT: fromto(27, 27)
+2015-07-28_07-57-21 elapsed_time_stop: STOP: fromto(27, 27) ~= [s/m/h] 128.64     2.14     0.04 
+2015-07-28_08-32-23 elapsed_time_init: INIT: fromto(9, 9)
+2015-07-28_08-47-06 elapsed_time_stop: STOP: fromto(9, 9) ~= [s/m/h] 882.93     14.72    0.25 
+2015-07-28_09-55-21 elapsed_time_init: INIT: fromto(9, 9)
+2015-07-28_10-07-24 elapsed_time_stop: STOP: fromto(9, 9) ~= [s/m/h] 723.03     12.05    0.20 
+2015-07-28_10-10-31 elapsed_time_init: INIT: fromto(9, 27)
+2015-07-29_01-48-56 elapsed_time_stop: STOP: fromto(9, 27) ~= [s/m/h] 56304.76   938.41   15.64
+2015-07-29_07-04-46 elapsed_time_init: INIT: fromto(14, 14)
+2015-07-30_13-26-57 elapsed_time_init: INIT: fromto(14, 14)
+2015-07-30_13-38-07 elapsed_time_stop: STOP: fromto(14, 14) ~= [s/m/h] 670.38     11.17    0.19 
+2015-07-30_15-43-21 elapsed_time_init: INIT: fromto(14, 14)
+2015-07-30_15-57-46 elapsed_time_stop: STOP: fromto(14, 14) ~= [s/m/h] 865.13     14.42    0.24 
+2015-07-30_15-57-48 elapsed_time_init: INIT: fromto(14, 14)
+2015-07-30_15-59-46 elapsed_time_stop: STOP: fromto(14, 14) ~= [s/m/h] 117.18     1.95     0.03 
+2015-07-30_15-59-56 elapsed_time_init: INIT: fromto(14, 14)
+2015-07-30_16-13-26 elapsed_time_stop: STOP: fromto(14, 14) ~= [s/m/h] 810.07     13.50    0.23 
+2015-07-30_16-20-59 elapsed_time_init: INIT: fromto(14, 14)
+2015-07-30_16-34-40 elapsed_time_stop: STOP: fromto(14, 14) ~= [s/m/h] 820.88     13.68    0.23 
+2015-07-30_17-05-10 elapsed_time_init: INIT: fromto(14, 14)
+2015-07-30_17-19-00 elapsed_time_stop: STOP: fromto(14, 14) ~= [s/m/h] 829.86     13.83    0.23 
+2015-07-30_17-31-18 elapsed_time_init: INIT: fromto(23, 23)
+2015-07-30_21-36-21 elapsed_time_stop: STOP: fromto(23, 23) ~= [s/m/h] 14702.48   245.04   4.08 
+2015-07-31_09-23-53 elapsed_time_init: INIT: fromto(23, 23)
+2015-07-31_09-24-31 elapsed_time_stop: STOP: fromto(23, 23) ~= [s/m/h] 38.44      0.64     0.01 
+2015-07-31_09-24-42 elapsed_time_init: INIT: fromto(23, 23)
+2015-07-31_12-10-32 elapsed_time_stop: STOP: fromto(23, 23) ~= [s/m/h] 9949.76    165.83   2.76 
+2015-07-31_12-56-19 elapsed_time_init: INIT: fromto(23, 23)
+2015-07-31_13-39-58 elapsed_time_stop: STOP: fromto(23, 23) ~= [s/m/h] 2619.61    43.66    0.73 
+2015-07-31_13-46-33 elapsed_time_init: INIT: fromto(23, 23)
+2015-07-31_14-10-16 elapsed_time_init: INIT: fromto(23, 23)
+2015-07-31_17-04-52 elapsed_time_stop: STOP: fromto(23, 23) ~= [s/m/h] 10475.41   174.59   2.91 
+2015-07-31_17-35-06 elapsed_time_init: INIT: fromto(23, 23)
+2015-07-31_20-14-30 elapsed_time_stop: STOP: fromto(23, 23) ~= [s/m/h] 9564.44    159.41   2.66 
+2015-07-31_20-18-56 elapsed_time_init: INIT: fromto(23, 23)
+2015-07-31_20-25-12 elapsed_time_init: INIT: fromto(23, 23)
+2015-07-31_23-16-47 elapsed_time_stop: STOP: fromto(23, 23) ~= [s/m/h] 10295.30   171.59   2.86 
+2015-08-01_08-55-32 elapsed_time_init: INIT: fromto(8, 27)
+2015-08-01_23-22-24 elapsed_time_stop: STOP: fromto(8, 27) ~= [s/m/h] 52011.54   866.86   14.45
+2015-08-02_08-02-50 elapsed_time_init: INIT: main_top1, Inf)
+2015-08-02_13-11-01 elapsed_time_stop: STOP: main_top1, Inf) ~= [s/m/h] 18490.71   308.18   5.14 
+2015-08-02_13-15-40 elapsed_time_init: INIT: main_top4, Inf)
+2015-08-06_12-46-52 elapsed_time_init: INIT: main_top5, Inf)
+2015-08-06_17-30-20 elapsed_time_init: INIT: main_top10, Inf)
+2015-08-07_08-26-00 elapsed_time_stop: STOP: main_top10, Inf) ~= [s/m/h] 53740.20   895.67   14.93
+2015-08-07_08-26-09 elapsed_time_init: INIT: fromto(32, 32)
+2015-08-07_08-43-09 elapsed_time_stop: STOP: fromto(32, 32) ~= [s/m/h] 1019.84    17.00    0.28 
+2015-08-07_18-24-15 elapsed_time_init: INIT: fromto(10, 10)
+2015-08-07_20-52-12 elapsed_time_stop: STOP: fromto(10, 10) ~= [s/m/h] 8876.24    147.94   2.47 
+2015-08-08_22-31-58 elapsed_time_init: INIT: fromto(5, 27)
+2015-08-08_22-32-12 elapsed_time_stop: STOP: fromto(5, 27) ~= [s/m/h] 13.99      0.23     0.00 
+2015-08-08_22-33-24 elapsed_time_init: INIT: fromto(5, 27)
+2015-08-09_10-29-22 elapsed_time_init: INIT: fromto(7, 27)
+2015-08-10_01-19-23 elapsed_time_stop: STOP: fromto(7, 27) ~= [s/m/h] 53405.77   890.10   14.83
+2015-08-10_06-58-09 elapsed_time_init: INIT: fromto(26, 27)
+2015-08-10_07-18-48 elapsed_time_stop: STOP: fromto(26, 27) ~= [s/m/h] 1238.85    20.65    0.34 
+2015-08-10_08-37-48 elapsed_time_init: INIT: fromto(26, 27)
+2015-08-10_09-28-26 elapsed_time_stop: STOP: fromto(26, 27) ~= [s/m/h] 3037.52    50.63    0.84 
+2015-08-10_15-15-25 elapsed_time_init: INIT: fromto(26, 28)
+2015-08-10_16-13-09 elapsed_time_stop: STOP: fromto(26, 28) ~= [s/m/h] 3464.03    57.73    0.96 
+2015-08-10_16-43-19 elapsed_time_init: INIT: fromto(9, 28)
+2015-08-10_16-53-40 elapsed_time_stop: STOP: fromto(9, 28) ~= [s/m/h] 621.52     10.36    0.17 
+2015-08-10_17-18-02 elapsed_time_init: INIT: fromto(9, 28)
+2015-08-11_22-01-09 elapsed_time_init: INIT: fromto(23, 28)
+2015-08-11_22-28-18 elapsed_time_init: INIT: fromto(23, 28)
+2015-08-12_07-14-38 elapsed_time_init: INIT: fromto(23, 23)
+2015-08-12_09-09-19 elapsed_time_init: INIT: fromto(23, 23)
+2015-08-12_09-32-21 elapsed_time_init: INIT: fromto(23, 23)
+2015-08-12_17-09-27 elapsed_time_stop: STOP: fromto(23, 23) ~= [s/m/h] 27426.01   457.10   7.62 
+2015-08-12_17-15-48 elapsed_time_init: INIT: fromto(24, 28)
+2015-08-12_17-35-56 elapsed_time_stop: STOP: fromto(24, 28) ~= [s/m/h] 1208.89    20.15    0.34 
+2015-08-13_06-40-09 elapsed_time_init: INIT: fromto(24, 28)
+2015-08-13_07-07-18 elapsed_time_stop: STOP: fromto(24, 28) ~= [s/m/h] 1629.33    27.16    0.45 
+2015-08-13_07-07-20 elapsed_time_init: INIT: fromto(24, 28)
+2015-08-13_07-34-21 elapsed_time_stop: STOP: fromto(24, 28) ~= [s/m/h] 1620.98    27.02    0.45 
+2015-08-13_10-23-20 elapsed_time_init: INIT: fromto(23, 24)
+2015-08-13_11-44-55 elapsed_time_init: INIT: fromto(23, 24)
+2015-08-14_06-42-09 elapsed_time_stop: STOP: fromto(23, 24) ~= [s/m/h] 68233.54   1137.23  18.95
+2015-08-14_08-07-36 elapsed_time_init: INIT: fromto(24, 24)
+2015-08-14_08-25-50 elapsed_time_stop: STOP: fromto(24, 24) ~= [s/m/h] 1094.39    18.24    0.30 
+2015-08-15_07-46-14 elapsed_time_init: INIT: fromto(25, 25)
+2015-08-15_07-46-21 elapsed_time_stop: STOP: fromto(25, 25) ~= [s/m/h] 7.36       0.12     0.00 
+2015-08-15_08-37-08 elapsed_time_init: INIT: fromto(25, 26)
+2015-08-15_08-37-18 elapsed_time_stop: STOP: fromto(25, 26) ~= [s/m/h] 10.26      0.17     0.00 
+2015-08-15_08-49-57 elapsed_time_init: INIT: fromto(27, 28)
+2015-08-15_08-57-48 elapsed_time_stop: STOP: fromto(27, 28) ~= [s/m/h] 471.58     7.86     0.13 
+2015-08-15_09-05-07 elapsed_time_init: INIT: fromto(27, 27)
+2015-08-15_09-09-59 elapsed_time_stop: STOP: fromto(27, 27) ~= [s/m/h] 292.66     4.88     0.08 
+2015-08-15_09-10-04 elapsed_time_init: INIT: fromto(27, 27)
+2015-08-15_09-10-51 elapsed_time_stop: STOP: fromto(27, 27) ~= [s/m/h] 46.49      0.77     0.01 
+2015-08-15_09-13-50 elapsed_time_init: INIT: fromto(28, 29)
+2015-08-15_09-17-59 elapsed_time_stop: STOP: fromto(28, 29) ~= [s/m/h] 248.59     4.14     0.07 
+2015-08-15_09-31-04 elapsed_time_init: INIT: fromto(30, 30)
+2015-08-15_09-33-12 elapsed_time_stop: STOP: fromto(30, 30) ~= [s/m/h] 127.53     2.13     0.04 
+2015-08-15_09-37-02 elapsed_time_init: INIT: fromto(31, 31)
+2015-08-15_09-43-07 elapsed_time_stop: STOP: fromto(31, 31) ~= [s/m/h] 365.87     6.10     0.10 
+2015-08-15_09-55-10 elapsed_time_init: INIT: fromto(32, 32)
+2015-08-15_10-01-09 elapsed_time_stop: STOP: fromto(32, 32) ~= [s/m/h] 358.49     5.97     0.10 
+2015-08-15_10-01-11 elapsed_time_init: INIT: fromto(32, 32)
+2015-08-15_11-34-32 elapsed_time_stop: STOP: fromto(32, 32) ~= [s/m/h] 5601.28    93.35    1.56 
+2015-08-16_21-25-23 elapsed_time_init: INIT: main_top19, Inf)
+2015-08-17_06-43-00 elapsed_time_stop: STOP: main_top19, Inf) ~= [s/m/h] 33457.14   557.62   9.29 
+2015-08-17_17-29-44 elapsed_time_init: INIT: main_top23, Inf)
+2015-08-17_20-53-05 elapsed_time_stop: STOP: main_top23, Inf) ~= [s/m/h] 12200.73   203.35   3.39 
+2015-08-17_20-53-45 elapsed_time_init: INIT: main_top23, Inf)
+2015-08-18_07-00-31 elapsed_time_stop: STOP: main_top23, Inf) ~= [s/m/h] 36405.69   606.76   10.11
+2015-08-18_08-53-14 elapsed_time_init: INIT: fromto(23, 23)
+2015-08-18_10-02-33 elapsed_time_stop: STOP: fromto(23, 23) ~= [s/m/h] 4158.97    69.32    1.16 
+2015-08-18_10-11-46 elapsed_time_init: INIT: fromto(23, 23)
+2015-08-18_10-13-33 elapsed_time_stop: STOP: fromto(23, 23) ~= [s/m/h] 107.11     1.79     0.03 
+2015-08-18_10-13-35 elapsed_time_init: INIT: fromto(23, 23)
+2015-08-18_13-38-53 elapsed_time_stop: STOP: fromto(23, 23) ~= [s/m/h] 12317.79   205.30   3.42 
+2015-08-18_14-23-22 elapsed_time_init: INIT: fromto(23, 23)
+2015-08-18_17-53-59 elapsed_time_stop: STOP: fromto(23, 23) ~= [s/m/h] 12637.19   210.62   3.51 
+2015-08-18_17-58-25 elapsed_time_init: INIT: main_top24, Inf)
+2015-08-18_18-26-44 elapsed_time_stop: STOP: main_top24, Inf) ~= [s/m/h] 1698.44    28.31    0.47 
+2015-08-18_21-27-08 elapsed_time_init: INIT: main_top25, Inf)
+2015-08-18_22-20-20 elapsed_time_stop: STOP: main_top25, Inf) ~= [s/m/h] 3192.24    53.20    0.89 
+2015-08-19_06-28-30 elapsed_time_init: INIT: fromto(24, 24)
+2015-08-19_06-44-33 elapsed_time_stop: STOP: fromto(24, 24) ~= [s/m/h] 962.51     16.04    0.27 
+2015-08-19_07-08-08 elapsed_time_init: INIT: fromto(25, 27)
+2015-08-19_07-18-11 elapsed_time_stop: STOP: fromto(25, 27) ~= [s/m/h] 603.23     10.05    0.17 
+2015-08-19_10-04-07 elapsed_time_init:         INIT: main_top27, Inf)
+2015-08-19_11-22-56 elapsed_time_stop:         STOP: main_top27, Inf) ~= [s/m/h] 4729.29    78.82    1.31 
+2015-08-19_11-34-27 elapsed_time_init: INIT: fromto(24, 31)
+2015-08-19_12-03-14 elapsed_time_stop: STOP: fromto(24, 31) ~= [s/m/h] 1726.63    28.78    0.48 
+2015-08-19_20-22-33 elapsed_time_init: INIT: main_top24, Inf)
+2015-08-20_06-30-02 elapsed_time_stop: STOP: main_top24, Inf) ~= [s/m/h] 36449.93   607.50   10.12
+2015-08-20_07-06-04 elapsed_time_init: INIT: fromto(28, 28)
+2015-08-20_07-08-03 elapsed_time_stop: STOP: fromto(28, 28) ~= [s/m/h] 119.64     1.99     0.03 
+2015-08-20_07-11-22 elapsed_time_init: INIT: fromto(28, 28)
+2015-08-20_07-13-15 elapsed_time_stop: STOP: fromto(28, 28) ~= [s/m/h] 113.05     1.88     0.03 
+2015-08-20_07-20-27 elapsed_time_init: INIT: main_top24, Inf)
+2015-08-20_18-18-15 elapsed_time_stop: STOP: main_top24, Inf) ~= [s/m/h] 39468.28   657.80   10.96
+2015-08-24_19-58-35 elapsed_time_init: INIT: fromto(24, 24)
+2015-08-24_20-07-56 elapsed_time_stop: STOP: fromto(24, 24) ~= [s/m/h] 561.27     9.35     0.16 
+2015-08-24_20-08-01 elapsed_time_init: INIT: fromto(24, 24)
+2015-08-24_20-17-33 elapsed_time_stop: STOP: fromto(24, 24) ~= [s/m/h] 572.10     9.54     0.16 
+2015-08-24_20-18-16 elapsed_time_init: INIT: fromto(24, 24)
+2015-08-24_21-00-42 elapsed_time_stop: STOP: fromto(24, 24) ~= [s/m/h] 2546.61    42.44    0.71 
+2015-08-24_21-00-56 elapsed_time_init: INIT: fromto(24, 24)
+2015-08-24_22-36-52 elapsed_time_stop: STOP: fromto(24, 24) ~= [s/m/h] 5756.33    95.94    1.60 
+2015-08-25_09-13-28 elapsed_time_init: INIT: fromto(25, 26)
+2015-08-25_09-31-03 elapsed_time_stop: STOP: fromto(25, 26) ~= [s/m/h] 1054.90    17.58    0.29 
+2015-08-25_13-08-29 elapsed_time_init: INIT: main_top24, Inf)
+2015-08-25_14-39-50 elapsed_time_stop: STOP: main_top24, Inf) ~= [s/m/h] 5480.69    91.34    1.52 
+2015-08-25_14-48-37 elapsed_time_init: INIT: main_top4, Inf)
+2015-08-25_15-31-13 elapsed_time_stop: STOP: main_top4, Inf) ~= [s/m/h] 2555.91    42.60    0.71 
+2015-08-25_15-31-41 elapsed_time_init: INIT: main_top4, Inf)
+2015-08-25_16-00-43 elapsed_time_stop: STOP: main_top4, Inf) ~= [s/m/h] 1742.42    29.04    0.48 
+2015-08-25_16-08-32 elapsed_time_init: INIT: main_top4, Inf)
+2015-08-25_16-11-37 elapsed_time_stop: STOP: main_top4, Inf) ~= [s/m/h] 184.38     3.07     0.05 
+2015-08-25_16-11-50 elapsed_time_init: INIT: main_top4, Inf)
+2015-08-25_21-39-25 elapsed_time_stop: STOP: main_top4, Inf) ~= [s/m/h] 19655.02   327.58   5.46 
+2015-08-25_21-48-56 elapsed_time_init: INIT: main_top6, Inf)
+2015-08-26_06-54-23 elapsed_time_stop: STOP: main_top6, Inf) ~= [s/m/h] 32726.31   545.44   9.09 
+2015-08-26_06-54-52 elapsed_time_init: INIT: main_top15, Inf)
+2015-08-26_07-14-28 elapsed_time_init: INIT: fromto(14, 14)
+2015-08-26_07-30-17 elapsed_time_stop: STOP: fromto(14, 14) ~= [s/m/h] 949.05     15.82    0.26 
+2015-08-26_07-41-10 elapsed_time_init: INIT: fromto(14, 14)
+2015-08-26_07-56-35 elapsed_time_stop: STOP: fromto(14, 14) ~= [s/m/h] 924.57     15.41    0.26 
+2015-08-26_08-03-06 elapsed_time_init: INIT: fromto(14, 14)
+2015-08-26_08-18-23 elapsed_time_stop: STOP: fromto(14, 14) ~= [s/m/h] 917.44     15.29    0.25 
+2015-08-26_08-25-44 elapsed_time_init: INIT: main_top15, Inf)
+2015-08-27_06-40-01 elapsed_time_stop: STOP: main_top15, Inf) ~= [s/m/h] 80056.72   1334.28  22.24
+2015-08-27_07-23-21 elapsed_time_init: INIT: fromto(14, 14)
+2015-08-27_07-41-57 elapsed_time_stop: STOP: fromto(14, 14) ~= [s/m/h] 1115.86    18.60    0.31 
+2015-08-27_07-55-57 elapsed_time_init: INIT: fromto(15, 15)
+2015-08-27_08-23-25 elapsed_time_stop: STOP: fromto(15, 15) ~= [s/m/h] 1647.49    27.46    0.46 
+2015-08-27_08-23-26 elapsed_time_init: INIT: fromto(15, 15)
+2015-08-27_08-27-20 elapsed_time_stop: STOP: fromto(15, 15) ~= [s/m/h] 233.15     3.89     0.06 
+2015-08-27_08-32-43 elapsed_time_init: INIT: fromto(14, 15)
+2015-08-27_08-50-33 elapsed_time_stop: STOP: fromto(14, 15) ~= [s/m/h] 1070.39    17.84    0.30 
+2015-08-27_09-15-19 elapsed_time_init: INIT: fromto(14, 15)
+2015-08-27_09-33-07 elapsed_time_stop: STOP: fromto(14, 15) ~= [s/m/h] 1067.95    17.80    0.30 
+2015-08-27_09-45-43 elapsed_time_init: INIT: fromto(14, 14)
+2015-08-27_09-58-34 elapsed_time_stop: STOP: fromto(14, 14) ~= [s/m/h] 771.00     12.85    0.21 
+2015-08-27_13-16-44 elapsed_time_init: INIT: fromto(14, 30)
+2015-08-28_06-48-09 elapsed_time_stop: STOP: fromto(14, 30) ~= [s/m/h] 63084.85   1051.41  17.52
+2015-08-28_07-11-50 elapsed_time_init: INIT: fromto(24, 30)
+2015-08-28_07-36-06 elapsed_time_stop: STOP: fromto(24, 30) ~= [s/m/h] 1456.07    24.27    0.40 
+2015-08-28_07-40-15 elapsed_time_init: INIT: fromto(24, 30)
+2015-08-28_07-55-37 elapsed_time_stop: STOP: fromto(24, 30) ~= [s/m/h] 922.49     15.37    0.26 
+2015-08-28_07-55-39 elapsed_time_init: INIT: fromto(24, 30)
+2015-08-28_08-32-02 elapsed_time_stop: STOP: fromto(24, 30) ~= [s/m/h] 2183.13    36.39    0.61 
+2015-08-28_08-32-21 elapsed_time_init: INIT: fromto(25, 25)
+2015-08-28_08-32-28 elapsed_time_stop: STOP: fromto(25, 25) ~= [s/m/h] 7.34       0.12     0.00 
+2015-08-28_08-34-36 elapsed_time_init: INIT: fromto(26, 26)
+2015-08-28_08-36-10 elapsed_time_stop: STOP: fromto(26, 26) ~= [s/m/h] 93.37      1.56     0.03 
+2015-08-28_08-37-12 elapsed_time_init: INIT: fromto(27, 30)
+2015-08-28_08-46-12 elapsed_time_stop: STOP: fromto(27, 30) ~= [s/m/h] 539.83     9.00     0.15 
+2015-08-28_09-10-27 elapsed_time_init: INIT: fromto(23, 23)
+2015-08-28_13-37-48 elapsed_time_init: INIT: main_top23, Inf)
+2015-08-29_22-36-20 elapsed_time_init: INIT: main_top23, Inf)
+2015-08-30_07-44-06 elapsed_time_init: INIT: main_top23, Inf)
+2015-08-30_08-51-39 elapsed_time_init: INIT: main_top23, Inf)
+2015-08-30_14-59-36 elapsed_time_stop: STOP: main_top23, Inf) ~= [s/m/h] 22076.43   367.94   6.13 
+2015-09-01_10-05-50 elapsed_time_init: INIT: fromto(7, 17)
+2015-09-01_10-07-21 elapsed_time_stop: STOP: fromto(7, 17) ~= [s/m/h] 91.23      1.52     0.03 
+2015-09-01_10-08-30 elapsed_time_init: INIT: fromto(7, 17)
+2015-09-01_10-57-37 elapsed_time_stop: STOP: fromto(7, 17) ~= [s/m/h] 2946.38    49.11    0.82 
+2015-09-01_10-58-02 elapsed_time_init: INIT: fromto(12, 17)
+2015-09-01_15-41-19 elapsed_time_stop: STOP: fromto(12, 17) ~= [s/m/h] 16997.29   283.29   4.72 
+2015-09-01_22-01-50 elapsed_time_init: INIT: fromto(8, 17)
+2015-09-01_22-02-34 elapsed_time_stop: STOP: fromto(8, 17) ~= [s/m/h] 43.88      0.73     0.01 
+2015-09-01_22-04-24 elapsed_time_init: INIT: fromto(8, 17)
+2015-09-02_06-47-18 elapsed_time_stop: STOP: fromto(8, 17) ~= [s/m/h] 31374.03   522.90   8.72 
+2015-09-02_08-25-06 elapsed_time_init: INIT: fromto(10, 17)
+2015-09-02_13-06-16 elapsed_time_stop: STOP: fromto(10, 17) ~= [s/m/h] 16869.96   281.17   4.69 
+2015-09-02_14-34-26 elapsed_time_init: INIT: fromto(10, 17)
+2015-09-02_14-37-55 elapsed_time_stop: STOP: fromto(10, 17) ~= [s/m/h] 209.05     3.48     0.06 
+2015-09-02_14-47-34 elapsed_time_init: INIT: fromto(10, 17)
+2015-09-02_19-58-37 elapsed_time_stop: STOP: fromto(10, 17) ~= [s/m/h] 18663.01   311.05   5.18 
+2015-09-02_19-58-47 elapsed_time_init: INIT: fromto(17, 17)
+2015-09-02_20-06-25 elapsed_time_stop: STOP: fromto(17, 17) ~= [s/m/h] 458.44     7.64     0.13 
+2015-09-02_20-30-26 elapsed_time_init: INIT: fromto(10, 17)
+2015-09-03_01-03-45 elapsed_time_stop: STOP: fromto(10, 17) ~= [s/m/h] 16398.92   273.32   4.56 
+2015-09-03_06-45-18 elapsed_time_init: INIT: fromto(10, 10)
+2015-09-03_06-49-13 elapsed_time_stop: STOP: fromto(10, 10) ~= [s/m/h] 234.14     3.90     0.07 
+2015-09-03_06-49-58 elapsed_time_init: INIT: fromto(10, 27)
+2015-09-03_16-47-10 elapsed_time_init: INIT: main_top1, Inf)
+2015-09-03_17-58-12 elapsed_time_stop: STOP: main_top1, Inf) ~= [s/m/h] 4261.82    71.03    1.18 
+2015-09-04_14-09-56 elapsed_time_init: INIT: main_top2, Inf)
+2015-09-04_17-31-53 elapsed_time_stop: STOP: main_top2, Inf) ~= [s/m/h] 12116.85   201.95   3.37 
+2015-09-04_17-32-10 elapsed_time_init: INIT: main_top3, Inf)
+2015-09-04_17-42-50 elapsed_time_stop: STOP: main_top3, Inf) ~= [s/m/h] 640.65     10.68    0.18 
+2015-09-04_22-11-16 elapsed_time_init: INIT: main_top3, Inf)
+2015-09-05_06-55-25 elapsed_time_stop: STOP: main_top3, Inf) ~= [s/m/h] 31452.01   524.20   8.74 
+2015-09-05_06-56-20 elapsed_time_init: INIT: main_top4, Inf)
+2015-09-05_06-58-16 elapsed_time_stop: STOP: main_top4, Inf) ~= [s/m/h] 116.77     1.95     0.03 
+2015-09-05_06-58-18 elapsed_time_init: INIT: main_top4, Inf)
+2015-09-05_09-22-21 elapsed_time_stop: STOP: main_top4, Inf) ~= [s/m/h] 8642.83    144.05   2.40 
+2015-09-05_10-31-38 elapsed_time_init: INIT: main_top5, Inf)
+2015-09-05_10-32-19 elapsed_time_stop: STOP: main_top5, Inf) ~= [s/m/h] 40.83      0.68     0.01 
+2015-09-05_10-32-22 elapsed_time_init: INIT: main_top5, Inf)
+2015-09-05_10-35-13 elapsed_time_stop: STOP: main_top5, Inf) ~= [s/m/h] 171.68     2.86     0.05 
+2015-09-05_10-35-15 elapsed_time_init: INIT: main_top5, Inf)
+2015-09-05_11-37-12 elapsed_time_stop: STOP: main_top5, Inf) ~= [s/m/h] 3716.55    61.94    1.03 
+2015-09-05_11-38-13 elapsed_time_init: INIT: main_top5, Inf)
+2015-09-05_11-51-32 elapsed_time_stop: STOP: main_top5, Inf) ~= [s/m/h] 798.60     13.31    0.22 
+2015-09-05_11-52-17 elapsed_time_init: INIT: main_top5, Inf)
+2015-09-05_11-54-22 elapsed_time_stop: STOP: main_top5, Inf) ~= [s/m/h] 124.41     2.07     0.03 
+2015-09-05_11-56-29 elapsed_time_init: INIT: main_top5, Inf)
+2015-09-05_11-56-54 elapsed_time_stop: STOP: main_top5, Inf) ~= [s/m/h] 24.49      0.41     0.01 
+2015-09-05_11-58-53 elapsed_time_init: INIT: main_top5, Inf)
+2015-09-06_20-51-48 elapsed_time_stop: STOP: main_top5, Inf) ~= [s/m/h] 118375.18  1972.92  32.88
+2015-09-07_07-11-24 elapsed_time_init: INIT: fromto(5, 5)
+2015-09-07_07-14-23 elapsed_time_stop: STOP: fromto(5, 5) ~= [s/m/h] 178.69     2.98     0.05 
+2015-09-07_07-26-37 elapsed_time_init: INIT: fromto(6, 6)
+2015-09-07_07-35-48 elapsed_time_stop: STOP: fromto(6, 6) ~= [s/m/h] 551.60     9.19     0.15 
+2015-09-07_07-35-53 elapsed_time_init: INIT: fromto(6, 6)
+2015-09-07_07-42-16 elapsed_time_stop: STOP: fromto(6, 6) ~= [s/m/h] 383.29     6.39     0.11 
+2015-09-07_08-25-02 elapsed_time_init: INIT: main_top7, Inf)
+2015-09-07_09-02-49 elapsed_time_stop: STOP: main_top7, Inf) ~= [s/m/h] 2266.57    37.78    0.63 
+2015-09-07_09-03-05 elapsed_time_init: INIT: main_top10, Inf)
+2015-09-08_06-49-42 elapsed_time_stop: STOP: main_top10, Inf) ~= [s/m/h] 78397.05   1306.62  21.78
+2015-09-08_06-50-03 elapsed_time_init: INIT: fromto(27, 27)
+2015-09-08_06-51-51 elapsed_time_stop: STOP: fromto(27, 27) ~= [s/m/h] 107.70     1.79     0.03 
+2015-09-08_06-52-00 elapsed_time_init: INIT: fromto(26, 27)
+2015-09-08_06-53-57 elapsed_time_stop: STOP: fromto(26, 27) ~= [s/m/h] 117.70     1.96     0.03 
+2015-09-08_06-58-14 elapsed_time_init: INIT: fromto(26, 26)
+2015-09-08_06-59-28 elapsed_time_stop: STOP: fromto(26, 26) ~= [s/m/h] 74.14      1.24     0.02 
+2015-09-08_07-03-22 elapsed_time_init: INIT: fromto(26, 26)
+2015-09-08_07-04-37 elapsed_time_stop: STOP: fromto(26, 26) ~= [s/m/h] 74.60      1.24     0.02 
+2015-09-08_07-44-04 elapsed_time_init: INIT: main_top26, Inf)
+2015-09-08_10-19-42 elapsed_time_stop: STOP: main_top26, Inf) ~= [s/m/h] 9338.25    155.64   2.59 
+2015-09-08_10-27-43 elapsed_time_init: INIT: main_top34, Inf)
+2015-09-08_10-27-48 elapsed_time_stop: STOP: main_top34, Inf) ~= [s/m/h] 5.36       0.09     0.00 
+2015-09-11_09-02-34 elapsed_time_init: INIT: main_top5, Inf)
+2015-09-11_09-05-13 elapsed_time_stop: STOP: main_top5, Inf) ~= [s/m/h] 158.62     2.64     0.04 
+2015-09-11_11-51-34 elapsed_time_init: INIT: main_top5, Inf)
+2015-09-11_12-45-52 elapsed_time_init: INIT: main_top10, Inf)
+2015-09-11_12-59-57 elapsed_time_init:   INIT: main_top10, Inf)
+2015-09-11_13-02-04 elapsed_time_stop:   STOP: main_top10, Inf) ~= [s/m/h] 126.10     2.10     0.04 
+2015-09-11_13-10-30 elapsed_time_init: INIT: main_top10, Inf)
+2015-09-12_11-04-09 elapsed_time_stop: STOP: main_top10, Inf) ~= [s/m/h] 78828.32   1313.81  21.90
+2015-09-12_11-36-26 elapsed_time_init: INIT: fromto(25, 25)
+2015-09-12_11-36-35 elapsed_time_stop: STOP: fromto(25, 25) ~= [s/m/h] 9.06       0.15     0.00 
+2015-09-13_08-58-20 elapsed_time_init: INIT: fromto(25, 25)
+2015-09-13_08-58-25 elapsed_time_stop: STOP: fromto(25, 25) ~= [s/m/h] 5.18       0.09     0.00 
+2015-09-13_13-22-03 elapsed_time_init: INIT: fromto(30, 30)
+2015-09-13_13-36-30 elapsed_time_stop: STOP: fromto(30, 30) ~= [s/m/h] 867.29     14.45    0.24 
+2015-09-13_13-49-52 elapsed_time_init: INIT: main_top24, Inf)
+2015-09-13_18-03-06 elapsed_time_stop: STOP: main_top24, Inf) ~= [s/m/h] 15193.81   253.23   4.22 
+2015-09-13_18-11-04 elapsed_time_init: INIT: main_top24, Inf)
+2015-09-13_18-14-45 elapsed_time_stop: STOP: main_top24, Inf) ~= [s/m/h] 221.34     3.69     0.06 
+2015-09-13_18-14-50 elapsed_time_init: INIT: main_top24, Inf)
+2015-09-13_19-46-30 elapsed_time_stop: STOP: main_top24, Inf) ~= [s/m/h] 5500.35    91.67    1.53 
+2015-09-13_20-28-23 elapsed_time_init: INIT: fromto(25, 25)
+2015-09-13_20-28-31 elapsed_time_stop: STOP: fromto(25, 25) ~= [s/m/h] 7.47       0.12     0.00 
+2015-09-13_21-40-24 elapsed_time_init: INIT: fromto(25, 25)
+2015-09-13_21-42-34 elapsed_time_stop: STOP: fromto(25, 25) ~= [s/m/h] 129.34     2.16     0.04 
+2015-09-13_21-42-37 elapsed_time_init: INIT: fromto(25, 25)
+2015-09-13_21-43-26 elapsed_time_stop: STOP: fromto(25, 25) ~= [s/m/h] 49.67      0.83     0.01 
+2015-09-13_21-43-27 elapsed_time_init: INIT: fromto(25, 25)
+2015-09-13_21-43-33 elapsed_time_stop: STOP: fromto(25, 25) ~= [s/m/h] 5.24       0.09     0.00 
+2015-09-13_21-45-30 elapsed_time_init: INIT: fromto(25, 25)
+2015-09-13_21-45-36 elapsed_time_stop: STOP: fromto(25, 25) ~= [s/m/h] 5.21       0.09     0.00 
+2015-09-13_21-46-11 elapsed_time_init: INIT: fromto(25, 25)
+2015-09-13_21-46-16 elapsed_time_stop: STOP: fromto(25, 25) ~= [s/m/h] 5.40       0.09     0.00 
+2015-09-13_22-17-06 elapsed_time_init: INIT: fromto(25, 25)
+2015-09-13_22-17-59 elapsed_time_stop: STOP: fromto(25, 25) ~= [s/m/h] 53.02      0.88     0.01 
+2015-09-19_15-40-31 elapsed_time_init: INIT: fromto(4, 25)
+2015-09-19_15-45-04 elapsed_time_init: INIT: fromto(4, 25)
+2015-09-19_20-19-47 elapsed_time_init:   INIT: fromto(10, 25)
+2015-09-19_20-22-29 elapsed_time_init:     INIT: fromto(10, 25)
+2015-09-20_14-22-03 elapsed_time_stop:     STOP: fromto(10, 25) ~= [s/m/h] 64776.70   1079.61  17.99
+2015-09-21_06-56-27 elapsed_time_init: INIT: fromto(24, 24)
+2015-09-21_07-29-25 elapsed_time_stop: STOP: fromto(24, 24) ~= [s/m/h] 1978.53    32.98    0.55 
+2015-09-21_07-30-32 elapsed_time_init: INIT: fromto(24, 24)
+2015-09-21_07-47-11 elapsed_time_stop: STOP: fromto(24, 24) ~= [s/m/h] 999.27     16.65    0.28 
+2015-09-21_07-54-42 elapsed_time_init: INIT: fromto(25, 25)
+2015-09-21_07-54-51 elapsed_time_stop: STOP: fromto(25, 25) ~= [s/m/h] 8.62       0.14     0.00 
+2015-09-21_09-13-54 elapsed_time_init: INIT: fromto(14, 14)
+2015-09-21_09-33-57 elapsed_time_stop: STOP: fromto(14, 14) ~= [s/m/h] 1203.05    20.05    0.33 
+2015-09-21_10-30-39 elapsed_time_init: INIT: fromto(14, 14)
+2015-09-21_10-42-59 elapsed_time_stop: STOP: fromto(14, 14) ~= [s/m/h] 740.53     12.34    0.21 
+2015-09-21_11-19-20 elapsed_time_init: INIT: fromto(14, 25)
+2015-09-22_04-06-10 elapsed_time_stop: STOP: fromto(14, 25) ~= [s/m/h] 60410.31   1006.84  16.78
+2015-09-22_04-06-10 elapsed_time_init: INIT: fromto(14, 25)
+2015-09-22_17-54-13 elapsed_time_stop: STOP: fromto(14, 25) ~= [s/m/h] 49683.13   828.05   13.80
+2015-09-22_20-50-43 elapsed_time_init: INIT: fromto(14, 14)
+2015-09-22_21-08-23 elapsed_time_stop: STOP: fromto(14, 14) ~= [s/m/h] 1059.68    17.66    0.29 
+2015-09-23_06-36-38 elapsed_time_init: INIT: fromto(14, 14)
+2015-09-23_06-49-11 elapsed_time_stop: STOP: fromto(14, 14) ~= [s/m/h] 753.59     12.56    0.21 
+2015-09-23_07-10-39 elapsed_time_init: INIT: fromto(14, 14)
+2015-09-23_07-23-02 elapsed_time_stop: STOP: fromto(14, 14) ~= [s/m/h] 742.78     12.38    0.21 
+2015-09-23_07-30-13 elapsed_time_init: INIT: fromto(14, 14)
+2015-09-23_07-30-19 elapsed_time_stop: STOP: fromto(14, 14) ~= [s/m/h] 6.16       0.10     0.00 
+2015-09-23_07-31-35 elapsed_time_init: INIT: fromto(14, 14)
+2015-09-23_07-46-20 elapsed_time_stop: STOP: fromto(14, 14) ~= [s/m/h] 885.14     14.75    0.25 
+2015-09-23_09-06-54 elapsed_time_init: INIT: fromto(14, 14)
+2015-09-23_09-20-08 elapsed_time_stop: STOP: fromto(14, 14) ~= [s/m/h] 794.34     13.24    0.22 
+2015-09-23_09-21-57 elapsed_time_init: INIT: fromto(14, 14)
+2015-09-23_09-35-01 elapsed_time_stop: STOP: fromto(14, 14) ~= [s/m/h] 784.29     13.07    0.22 
+2015-09-23_09-40-27 elapsed_time_init: INIT: fromto(14, 25)
+2015-09-24_00-42-56 elapsed_time_stop: STOP: fromto(14, 25) ~= [s/m/h] 54148.85   902.48   15.04
+2015-09-24_07-19-59 elapsed_time_init: INIT: fromto(14, 25)
+2015-09-24_07-33-56 elapsed_time_stop: STOP: fromto(14, 25) ~= [s/m/h] 837.14     13.95    0.23 
+2015-09-24_11-37-36 elapsed_time_init:   INIT: fromto(14, 14)
+2015-09-24_11-49-09 elapsed_time_stop:   STOP: fromto(14, 14) ~= [s/m/h] 692.60     11.54    0.19 
+2015-09-24_12-28-52 elapsed_time_init:   INIT: fromto(14, 25)
+2015-09-25_06-45-31 elapsed_time_stop:   STOP: fromto(14, 25) ~= [s/m/h] 65799.27   1096.65  18.28
+2015-09-25_06-46-12 elapsed_time_init: INIT: fromto(25, 25)
+2015-09-25_06-46-19 elapsed_time_stop: STOP: fromto(25, 25) ~= [s/m/h] 7.62       0.13     0.00 
+2015-09-25_06-46-46 elapsed_time_init:   INIT: fromto(25, 25)
+2015-09-25_06-46-51 elapsed_time_stop:   STOP: fromto(25, 25) ~= [s/m/h] 4.82       0.08     0.00 
+2015-09-25_06-46-51 elapsed_time_init:   INIT: fromto(25, 25)
+2015-09-25_06-46-56 elapsed_time_stop:   STOP: fromto(25, 25) ~= [s/m/h] 4.96       0.08     0.00 
+2015-09-25_06-47-13 elapsed_time_init:   INIT: fromto(25, 25)
+2015-09-25_06-47-18 elapsed_time_stop:   STOP: fromto(25, 25) ~= [s/m/h] 4.83       0.08     0.00 
+2015-09-25_06-48-13 elapsed_time_init:   INIT: fromto(25, 25)
+2015-09-25_06-48-19 elapsed_time_stop:   STOP: fromto(25, 25) ~= [s/m/h] 5.28       0.09     0.00 
+2015-09-25_06-48-43 elapsed_time_init:   INIT: fromto(25, 25)
+2015-09-25_06-48-48 elapsed_time_stop:   STOP: fromto(25, 25) ~= [s/m/h] 4.93       0.08     0.00 
+2015-09-25_09-48-59 elapsed_time_init:   INIT: fromto(11, 25)
+2015-09-26_00-23-51 elapsed_time_stop:   STOP: fromto(11, 25) ~= [s/m/h] 52492.29   874.87   14.58
+2015-09-26_00-23-51 elapsed_time_init:   INIT: fromto(11, 25)
+2015-09-26_14-40-13 elapsed_time_stop:   STOP: fromto(11, 25) ~= [s/m/h] 51396.83   856.61   14.28
+2015-09-26_21-24-37 elapsed_time_init: INIT: fromto(11, 25)
+2015-09-27_16-24-33 elapsed_time_stop: STOP: fromto(11, 25) ~= [s/m/h] 68395.42   1139.92  19.00
+2015-09-27_17-36-44 elapsed_time_init:   INIT: fromto(11, 25)
+2015-09-28_07-55-59 elapsed_time_stop:   STOP: fromto(11, 25) ~= [s/m/h] 51555.66   859.26   14.32
+2015-09-28_07-55-59 elapsed_time_init:   INIT: fromto(11, 25)
+2015-09-28_23-08-50 elapsed_time_stop:   STOP: fromto(11, 25) ~= [s/m/h] 54771.04   912.85   15.21
+2015-09-29_06-32-46 elapsed_time_init:   INIT: fromto(24, 24)
+2015-09-29_06-58-06 elapsed_time_stop:   STOP: fromto(24, 24) ~= [s/m/h] 1520.67    25.34    0.42 
+2015-09-29_06-58-06 elapsed_time_init:   INIT: fromto(24, 24)
+2015-09-29_07-15-45 elapsed_time_stop:   STOP: fromto(24, 24) ~= [s/m/h] 1058.48    17.64    0.29 
+2015-09-29_07-33-50 elapsed_time_init:   INIT: fromto(24, 25)
+2015-09-29_07-50-54 elapsed_time_stop:   STOP: fromto(24, 25) ~= [s/m/h] 1023.52    17.06    0.28 
+2015-09-29_07-50-54 elapsed_time_init:   INIT: fromto(24, 25)
+2015-09-29_08-08-22 elapsed_time_stop:   STOP: fromto(24, 25) ~= [s/m/h] 1048.02    17.47    0.29 
+2015-09-29_09-20-38 elapsed_time_init: INIT: fromto(18, 25)
+2015-09-29_14-50-13 elapsed_time_stop: STOP: fromto(18, 25) ~= [s/m/h] 19774.50   329.57   5.49 
+2015-09-29_14-59-16 elapsed_time_init: INIT: fromto(20, 25)
+2015-09-30_07-47-30 elapsed_time_stop: STOP: fromto(20, 25) ~= [s/m/h] 60493.74   1008.23  16.80
+2015-09-30_09-08-06 elapsed_time_init: INIT: fromto(11, 25)
+2015-10-01_00-48-12 elapsed_time_stop: STOP: fromto(11, 25) ~= [s/m/h] 56406.06   940.10   15.67
+2015-10-01_09-17-33 elapsed_time_init: INIT: fromto(23, 25)
+2015-10-01_14-56-46 elapsed_time_stop: STOP: fromto(23, 25) ~= [s/m/h] 20352.64   339.21   5.65 
+2015-10-02_07-55-46 elapsed_time_init: INIT: fromto(25, 26)
+2015-10-02_08-24-11 elapsed_time_stop: STOP: fromto(25, 26) ~= [s/m/h] 1705.17    28.42    0.47 
+2015-10-02_09-52-14 elapsed_time_init: INIT: fromto(23, 26)
+2015-10-02_11-09-45 elapsed_time_stop: STOP: fromto(23, 26) ~= [s/m/h] 4651.31    77.52    1.29 
+2015-10-02_11-11-46 elapsed_time_init: INIT: fromto(23, 23)
+2015-10-02_12-42-35 elapsed_time_init: INIT: fromto(23, 23)
+2015-10-02_17-25-11 elapsed_time_stop: STOP: fromto(23, 23) ~= [s/m/h] 16955.98   282.60   4.71 
+2015-10-03_21-35-24 elapsed_time_init: INIT: main_top1, Inf)
+2015-10-05_02-26-57 elapsed_time_stop: STOP: main_top1, Inf) ~= [s/m/h] 103898.15  1731.64  28.86
+2015-10-05_07-50-03 elapsed_time_init: INIT: fromto(25, 26)
+2015-10-05_08-10-46 elapsed_time_stop: STOP: fromto(25, 26) ~= [s/m/h] 1242.86    20.71    0.35 
+2015-10-05_11-44-52 elapsed_time_init: INIT: main_top25, Inf)
+2015-10-05_15-44-08 elapsed_time_stop: STOP: main_top25, Inf) ~= [s/m/h] 14356.58   239.28   3.99 
+2015-10-06_17-22-33 elapsed_time_init: INIT: fromto(25, 26)
+2015-10-06_17-52-31 elapsed_time_stop: STOP: fromto(25, 26) ~= [s/m/h] 1798.42    29.97    0.50 
+2015-10-06_17-52-33 elapsed_time_init: INIT: fromto(25, 26)
+2015-10-06_18-13-56 elapsed_time_stop: STOP: fromto(25, 26) ~= [s/m/h] 1282.94    21.38    0.36 
+2015-10-06_18-29-08 elapsed_time_init: INIT: main_top27, Inf)
+2015-10-06_20-01-31 elapsed_time_stop: STOP: main_top27, Inf) ~= [s/m/h] 5543.00    92.38    1.54 
+2015-10-07_07-32-59 elapsed_time_init: INIT: fromto(30, 30)
+2015-10-07_07-35-47 elapsed_time_stop: STOP: fromto(30, 30) ~= [s/m/h] 167.34     2.79     0.05 
+2015-10-08_09-01-27 elapsed_time_init: INIT: fromto(32, 32)
+2015-10-08_09-11-57 elapsed_time_stop: STOP: fromto(32, 32) ~= [s/m/h] 629.64     10.49    0.17 
+2015-10-08_09-11-58 elapsed_time_init: INIT: fromto(32, 32)
+2015-10-08_09-15-03 elapsed_time_stop: STOP: fromto(32, 32) ~= [s/m/h] 185.31     3.09     0.05 
+2015-10-08_09-15-04 elapsed_time_init: INIT: fromto(32, 32)
+2015-10-08_09-17-09 elapsed_time_stop: STOP: fromto(32, 32) ~= [s/m/h] 124.30     2.07     0.03 
+2015-10-08_09-26-54 elapsed_time_init: INIT: fromto(32, 32)
+2015-10-08_09-28-59 elapsed_time_stop: STOP: fromto(32, 32) ~= [s/m/h] 125.02     2.08     0.03 
+2015-10-09_22-05-59 elapsed_time_init: INIT: fromto(24, 24)
+2015-10-09_22-19-04 elapsed_time_stop: STOP: fromto(24, 24) ~= [s/m/h] 785.24     13.09    0.22 
+2015-10-10_06-20-37 elapsed_time_init: INIT: fromto(24, 24)
+2015-10-10_06-33-27 elapsed_time_stop: STOP: fromto(24, 24) ~= [s/m/h] 769.85     12.83    0.21 
+2015-10-12_07-11-16 elapsed_time_init: INIT: fromto(23, 23)
+2015-10-12_09-24-08 elapsed_time_init: INIT: fromto(23, 23)
+2015-10-12_09-24-46 elapsed_time_stop: STOP: fromto(23, 23) ~= [s/m/h] 37.37      0.62     0.01 
+2015-10-12_09-24-47 elapsed_time_init: INIT: fromto(23, 23)
+2015-10-12_09-28-50 elapsed_time_stop: STOP: fromto(23, 23) ~= [s/m/h] 242.33     4.04     0.07 
+2015-10-12_09-28-54 elapsed_time_init: INIT: fromto(23, 23)
+2015-10-12_09-29-57 elapsed_time_stop: STOP: fromto(23, 23) ~= [s/m/h] 62.90      1.05     0.02 
+2015-10-12_09-29-58 elapsed_time_init: INIT: fromto(23, 23)
+2015-10-12_09-37-53 elapsed_time_init:   INIT: fromto(23, 23)
+2015-10-12_11-39-20 elapsed_time_init:     INIT: fromto(23, 23)
+2015-10-12_16-05-10 elapsed_time_stop:     STOP: fromto(23, 23) ~= [s/m/h] 15949.93   265.83   4.43 
+2015-10-12_16-11-25 elapsed_time_init: INIT: fromto(24, 24)
+2015-10-12_16-24-36 elapsed_time_stop: STOP: fromto(24, 24) ~= [s/m/h] 790.83     13.18    0.22 
+2015-10-12_21-58-33 elapsed_time_init: INIT: fromto(14, 14)
+2015-10-12_22-00-29 elapsed_time_stop: STOP: fromto(14, 14) ~= [s/m/h] 115.02     1.92     0.03 
+2015-10-13_07-06-34 elapsed_time_init: INIT: fromto(8, 8)
+2015-10-13_07-07-25 elapsed_time_stop: STOP: fromto(8, 8) ~= [s/m/h] 51.05      0.85     0.01 
+2015-10-13_07-07-26 elapsed_time_init: INIT: fromto(8, 8)
+2015-10-13_07-18-45 elapsed_time_stop: STOP: fromto(8, 8) ~= [s/m/h] 678.96     11.32    0.19 
+2015-10-13_07-20-27 elapsed_time_init: INIT: fromto(8, 8)
+2015-10-13_07-30-55 elapsed_time_stop: STOP: fromto(8, 8) ~= [s/m/h] 628.10     10.47    0.17 
+2015-10-13_07-33-11 elapsed_time_init: INIT: fromto(8, 8)
+2015-10-13_07-43-47 elapsed_time_stop: STOP: fromto(8, 8) ~= [s/m/h] 636.37     10.61    0.18 
+2015-10-14_13-12-19 elapsed_time_init: INIT: fromto(5, 6)
+2015-10-14_13-22-07 elapsed_time_stop: STOP: fromto(5, 6) ~= [s/m/h] 588.12     9.80     0.16 
+2015-10-14_13-43-38 elapsed_time_init: INIT: fromto(6, 6)
+2015-10-14_13-57-47 elapsed_time_stop: STOP: fromto(6, 6) ~= [s/m/h] 849.66     14.16    0.24 
+2015-10-14_14-12-53 elapsed_time_init: INIT: main_top5, Inf)
+2015-10-15_12-37-59 elapsed_time_stop: STOP: main_top5, Inf) ~= [s/m/h] 80705.89   1345.10  22.42
+2015-10-15_12-38-50 elapsed_time_init: INIT: main_top25, Inf)
+2015-10-15_12-49-35 elapsed_time_stop: STOP: main_top25, Inf) ~= [s/m/h] 644.83     10.75    0.18 
+2015-10-15_12-49-36 elapsed_time_init: INIT: main_top25, Inf)
+2015-10-15_14-47-46 elapsed_time_stop: STOP: main_top25, Inf) ~= [s/m/h] 7089.56    118.16   1.97 
+2015-10-17_10-12-16 elapsed_time_init: INIT: fromto(28, 28)
+2015-10-17_10-12-24 elapsed_time_stop: STOP: fromto(28, 28) ~= [s/m/h] 7.41       0.12     0.00 
+2015-10-17_11-26-29 elapsed_time_init: INIT: fromto(28, 28)
+2015-10-17_11-26-37 elapsed_time_stop: STOP: fromto(28, 28) ~= [s/m/h] 7.62       0.13     0.00 
+2015-10-17_11-55-33 elapsed_time_init: INIT: fromto(28, 28)
+2015-10-17_11-55-40 elapsed_time_stop: STOP: fromto(28, 28) ~= [s/m/h] 7.52       0.13     0.00 
+2015-10-17_21-23-45 elapsed_time_init: INIT: main_top29, Inf)
+2015-10-17_22-17-59 elapsed_time_stop: STOP: main_top29, Inf) ~= [s/m/h] 3253.79    54.23    0.90 
+2015-10-18_06-53-35 elapsed_time_init: INIT: fromto(28, 28)
+2015-10-18_06-59-09 elapsed_time_stop: STOP: fromto(28, 28) ~= [s/m/h] 334.34     5.57     0.09 
+2015-10-18_06-59-27 elapsed_time_init: INIT: fromto(28, 28)
+2015-10-18_06-59-34 elapsed_time_stop: STOP: fromto(28, 28) ~= [s/m/h] 7.27       0.12     0.00 
+2015-10-18_07-02-18 elapsed_time_init: INIT: fromto(29, 29)
+2015-10-18_07-05-21 elapsed_time_stop: STOP: fromto(29, 29) ~= [s/m/h] 183.44     3.06     0.05 
+2015-10-18_09-23-57 elapsed_time_init: INIT: fromto(32, 32)
+2015-10-18_09-24-08 elapsed_time_stop: STOP: fromto(32, 32) ~= [s/m/h] 10.92      0.18     0.00 
+2015-10-18_09-39-05 elapsed_time_init: INIT: fromto(33, 33)
+2015-10-18_09-41-30 elapsed_time_stop: STOP: fromto(33, 33) ~= [s/m/h] 145.84     2.43     0.04 
+2015-10-18_09-59-21 elapsed_time_init: INIT: fromto(34, 34)
+2015-10-18_11-16-04 elapsed_time_stop: STOP: fromto(34, 34) ~= [s/m/h] 4602.74    76.71    1.28 
+2015-10-18_12-32-58 elapsed_time_init: INIT: main_top35, Inf)
+2015-10-18_12-33-06 elapsed_time_stop: STOP: main_top35, Inf) ~= [s/m/h] 7.71       0.13     0.00 
+2015-10-18_15-05-59 elapsed_time_init: INIT: main_top5, Inf)
+2015-10-19_18-18-02 elapsed_time_stop: STOP: main_top5, Inf) ~= [s/m/h] 97922.51   1632.04  27.20
+2015-10-20_13-56-52 elapsed_time_init: INIT: fromto(33, 33)
+2015-10-20_14-03-14 elapsed_time_stop: STOP: fromto(33, 33) ~= [s/m/h] 382.28     6.37     0.11 
+2015-10-20_15-44-33 elapsed_time_init: INIT: fromto(33, 33)
+2015-10-20_15-50-58 elapsed_time_stop: STOP: fromto(33, 33) ~= [s/m/h] 384.62     6.41     0.11 
+2015-10-21_06-51-53 elapsed_time_init: INIT: fromto(34, 34)
+2015-10-21_07-48-27 elapsed_time_stop: STOP: fromto(34, 34) ~= [s/m/h] 3394.38    56.57    0.94 
+2015-10-22_15-16-02 elapsed_time_init: INIT: fromto(34, 34)
+2015-10-22_16-15-38 elapsed_time_stop: STOP: fromto(34, 34) ~= [s/m/h] 3576.08    59.60    0.99 
+2015-10-22_18-14-07 elapsed_time_init: INIT: fromto(30, 30)
+2015-10-22_18-16-04 elapsed_time_stop: STOP: fromto(30, 30) ~= [s/m/h] 116.28     1.94     0.03 
+2015-10-23_08-26-03 elapsed_time_init: INIT: fromto(33, 33)
+2015-10-23_08-36-36 elapsed_time_stop: STOP: fromto(33, 33) ~= [s/m/h] 633.05     10.55    0.18 
+2015-10-23_09-03-01 elapsed_time_init: INIT: fromto(34, 34)
+2015-10-23_10-01-40 elapsed_time_stop: STOP: fromto(34, 34) ~= [s/m/h] 3518.65    58.64    0.98 
+2015-10-23_14-09-40 elapsed_time_init: INIT: fromto(33, 33)
+2015-10-23_16-34-01 elapsed_time_stop: STOP: fromto(33, 33) ~= [s/m/h] 8661.07    144.35   2.41 
+2015-10-23_16-34-18 elapsed_time_init: INIT: fromto(33, 33)
+2015-10-23_16-40-03 elapsed_time_stop: STOP: fromto(33, 33) ~= [s/m/h] 345.70     5.76     0.10 
+2015-10-25_20-38-15 elapsed_time_init: INIT: fromto(33, 33)
+2015-10-25_20-43-05 elapsed_time_stop: STOP: fromto(33, 33) ~= [s/m/h] 289.66     4.83     0.08 
+2015-10-26_16-11-13 elapsed_time_init: INIT: fromto(34, 34)
+2015-10-26_16-59-30 elapsed_time_stop: STOP: fromto(34, 34) ~= [s/m/h] 2897.68    48.29    0.80 
+2015-10-30_08-52-50 elapsed_time_init: INIT: fromto(34, 34)
+2015-10-30_11-20-24 elapsed_time_stop: STOP: fromto(34, 34) ~= [s/m/h] 8854.32    147.57   2.46 
+2015-10-30_13-12-04 elapsed_time_init: INIT: fromto(34, 34)
+2015-10-30_15-35-55 elapsed_time_stop: STOP: fromto(34, 34) ~= [s/m/h] 8631.27    143.85   2.40 
+2015-10-30_16-15-40 elapsed_time_init: INIT: fromto(28, 28)
+2015-10-30_16-15-48 elapsed_time_stop: STOP: fromto(28, 28) ~= [s/m/h] 7.67       0.13     0.00 
+2015-10-30_16-21-40 elapsed_time_init: INIT: fromto(28, 28)
+2015-10-30_16-21-48 elapsed_time_stop: STOP: fromto(28, 28) ~= [s/m/h] 7.58       0.13     0.00 
+2015-10-30_16-24-17 elapsed_time_init: INIT: fromto(27, 28)
+2015-10-30_16-35-15 elapsed_time_stop: STOP: fromto(27, 28) ~= [s/m/h] 657.59     10.96    0.18 
+2015-10-30_17-25-41 elapsed_time_init: INIT: fromto(5, 28)
+2015-10-31_13-02-36 elapsed_time_stop: STOP: fromto(5, 28) ~= [s/m/h] 70614.50   1176.91  19.62
+2015-10-31_20-38-35 elapsed_time_init: INIT: fromto(5, 28)
+2015-11-01_15-09-33 elapsed_time_init: INIT: fromto(23, 28)
+2015-11-01_22-03-18 elapsed_time_stop: STOP: fromto(23, 28) ~= [s/m/h] 24824.53   413.74   6.90 
+2015-11-02_06-50-12 elapsed_time_init: INIT: fromto(28, 28)
+2015-11-02_06-50-19 elapsed_time_stop: STOP: fromto(28, 28) ~= [s/m/h] 7.40       0.12     0.00 
+2015-11-02_06-53-09 elapsed_time_init: INIT: fromto(28, 28)
+2015-11-02_06-53-14 elapsed_time_stop: STOP: fromto(28, 28) ~= [s/m/h] 5.19       0.09     0.00 
+2015-11-02_07-15-17 elapsed_time_init: INIT: fromto(25, 28)
+2015-11-02_08-12-50 elapsed_time_stop: STOP: fromto(25, 28) ~= [s/m/h] 3452.72    57.55    0.96 
+2015-11-02_10-05-05 elapsed_time_init: INIT: fromto(26, 26)
+2015-11-02_10-37-18 elapsed_time_stop: STOP: fromto(26, 26) ~= [s/m/h] 1933.76    32.23    0.54 
+2015-11-02_14-24-31 elapsed_time_init: INIT: fromto(27, 28)
+2015-11-02_14-35-50 elapsed_time_stop: STOP: fromto(27, 28) ~= [s/m/h] 678.37     11.31    0.19 
+2015-11-02_17-12-49 elapsed_time_init: INIT: fromto(27, 28)
+2015-11-02_17-20-06 elapsed_time_stop: STOP: fromto(27, 28) ~= [s/m/h] 437.02     7.28     0.12 
+2015-11-02_17-36-27 elapsed_time_init: INIT: fromto(27, 28)
+2015-11-02_17-43-50 elapsed_time_stop: STOP: fromto(27, 28) ~= [s/m/h] 442.64     7.38     0.12 
+2015-11-02_20-58-33 elapsed_time_init: INIT: fromto(27, 28)
+2015-11-02_21-05-59 elapsed_time_stop: STOP: fromto(27, 28) ~= [s/m/h] 446.21     7.44     0.12 
+2015-11-02_21-08-10 elapsed_time_init: INIT: fromto(28, 28)
+2015-11-02_21-08-11 elapsed_time_stop: STOP: fromto(28, 28) ~= [s/m/h] 0.55       0.01     0.00 
+2015-11-02_21-11-32 elapsed_time_init: INIT: fromto(29, 31)
+2015-11-02_21-16-47 elapsed_time_stop: STOP: fromto(29, 31) ~= [s/m/h] 315.31     5.26     0.09 
+2015-11-02_22-00-25 elapsed_time_init: INIT: fromto(28, 31)
+2015-11-02_22-04-41 elapsed_time_stop: STOP: fromto(28, 31) ~= [s/m/h] 256.57     4.28     0.07 
+2015-11-02_22-27-06 elapsed_time_init: INIT: fromto(5, 28)
+2015-11-03_18-37-14 elapsed_time_stop: STOP: fromto(5, 28) ~= [s/m/h] 72608.38   1210.14  20.17
+2015-11-03_19-41-15 elapsed_time_init: INIT: fromto(29, 31)
+2015-11-03_19-45-49 elapsed_time_stop: STOP: fromto(29, 31) ~= [s/m/h] 273.88     4.56     0.08 
+2015-11-03_20-29-10 elapsed_time_init: INIT: fromto(5, 28)
+2015-11-04_13-24-31 elapsed_time_init: INIT: fromto(18, 28)
+2015-11-05_03-14-00 elapsed_time_stop: STOP: fromto(18, 28) ~= [s/m/h] 49769.16   829.49   13.82
+2015-11-05_08-00-01 elapsed_time_init: INIT: main_top1, Inf)
+2015-11-06_14-09-01 elapsed_time_stop: STOP: main_top1, Inf) ~= [s/m/h] 108539.91  1809.00  30.15
+2015-11-07_07-37-26 elapsed_time_init: INIT: fromto(28, 28)
+2015-11-07_07-37-34 elapsed_time_stop: STOP: fromto(28, 28) ~= [s/m/h] 8.08       0.13     0.00 
+2015-11-08_09-22-34 elapsed_time_init: INIT: fromto(19, 19)
+2015-11-08_09-55-18 elapsed_time_stop: STOP: fromto(19, 19) ~= [s/m/h] 1963.27    32.72    0.55 
+2015-11-08_13-52-08 elapsed_time_init: INIT: fromto(8, 8)
+2015-11-08_14-03-21 elapsed_time_stop: STOP: fromto(8, 8) ~= [s/m/h] 673.15     11.22    0.19 
+2015-11-09_20-35-20 elapsed_time_init: INIT: fromto(25, 25)
+2015-11-09_20-36-43 elapsed_time_stop: STOP: fromto(25, 25) ~= [s/m/h] 82.93      1.38     0.02 
+2015-11-09_20-36-45 elapsed_time_init: INIT: fromto(25, 25)
+2015-11-09_20-39-01 elapsed_time_stop: STOP: fromto(25, 25) ~= [s/m/h] 136.54     2.28     0.04 
+2015-11-10_15-49-54 elapsed_time_init: INIT: fromto(5, 28)
+2015-11-10_17-01-08 elapsed_time_stop: STOP: fromto(5, 28) ~= [s/m/h] 4274.29    71.24    1.19 
+2015-11-10_17-01-43 elapsed_time_init: INIT: fromto(9, 28)
+2015-11-10_17-02-49 elapsed_time_stop: STOP: fromto(9, 28) ~= [s/m/h] 66.22      1.10     0.02 
+2015-11-10_17-02-51 elapsed_time_init: INIT: fromto(9, 28)
+2015-11-10_17-03-25 elapsed_time_stop: STOP: fromto(9, 28) ~= [s/m/h] 33.66      0.56     0.01 
+2015-11-10_17-03-27 elapsed_time_init: INIT: fromto(9, 28)
+2015-11-10_17-49-23 elapsed_time_init:   INIT: fromto(10, 28)
+2015-11-10_17-56-30 elapsed_time_init:     INIT: fromto(10, 28)
+2015-11-10_17-59-00 elapsed_time_init:       INIT: fromto(10, 28)
+2015-11-10_18-06-58 elapsed_time_init:         INIT: fromto(10, 28)
+2015-11-10_22-31-44 elapsed_time_stop:         STOP: fromto(10, 28) ~= [s/m/h] 15885.34   264.76   4.41 
+2015-11-10_22-32-02 elapsed_time_init:         INIT: fromto(14, 28)
+2015-11-10_22-32-56 elapsed_time_stop:         STOP: fromto(14, 28) ~= [s/m/h] 53.44      0.89     0.01 
+2015-11-10_22-32-59 elapsed_time_init:         INIT: fromto(14, 28)
+2015-11-11_06-43-58 elapsed_time_stop:         STOP: fromto(14, 28) ~= [s/m/h] 29459.21   490.99   8.18 
+2015-11-11_06-44-20 elapsed_time_init:         INIT: fromto(17, 28)
+2015-11-11_06-46-22 elapsed_time_stop:         STOP: fromto(17, 28) ~= [s/m/h] 122.09     2.03     0.03 
+2015-11-11_06-46-25 elapsed_time_init:         INIT: fromto(17, 28)
+2015-11-11_09-22-15 elapsed_time_init:           INIT: fromto(18, 28)
+2015-11-11_09-26-03 elapsed_time_init:             INIT: fromto(18, 28)
+2015-11-11_09-31-11 elapsed_time_init:               INIT: fromto(18, 28)
+2015-11-11_11-19-12 elapsed_time_init: INIT: fromto(5, 28)
+2015-11-12_08-36-04 elapsed_time_stop: STOP: fromto(5, 28) ~= [s/m/h] 76612.33   1276.87  21.28
+2015-11-12_09-07-15 elapsed_time_init: INIT: fromto(18, 28)
+2015-11-12_21-49-10 elapsed_time_stop: STOP: fromto(18, 28) ~= [s/m/h] 45714.64   761.91   12.70
+2015-11-12_22-28-34 elapsed_time_init: INIT: fromto(18, 28)
+2015-11-13_09-36-00 elapsed_time_stop: STOP: fromto(18, 28) ~= [s/m/h] 40045.25   667.42   11.12
+2015-11-13_13-04-38 elapsed_time_init: INIT: fromto(29, 34)
+2015-11-13_14-56-27 elapsed_time_init: INIT: main_top5, Inf)
+2015-11-14_09-36-27 elapsed_time_stop: STOP: main_top5, Inf) ~= [s/m/h] 67199.91   1120.00  18.67
+2015-11-14_16-04-40 elapsed_time_init: INIT: main_top5, Inf)
+2015-11-14_16-08-02 elapsed_time_stop: STOP: main_top5, Inf) ~= [s/m/h] 201.24     3.35     0.06 
+2015-11-14_21-19-59 elapsed_time_init: INIT: main_top5, Inf)
+2015-11-14_21-20-44 elapsed_time_stop: STOP: main_top5, Inf) ~= [s/m/h] 44.20      0.74     0.01 
+2015-11-14_21-24-47 elapsed_time_init: INIT: main_top5, Inf)
+2015-11-14_21-25-02 elapsed_time_stop: STOP: main_top5, Inf) ~= [s/m/h] 15.18      0.25     0.00 
+2015-11-15_08-25-23 elapsed_time_init: INIT: main_top5, Inf)
+2015-11-15_08-47-46 elapsed_time_stop: STOP: main_top5, Inf) ~= [s/m/h] 1343.07    22.38    0.37 
+2015-11-15_08-49-35 elapsed_time_init: INIT: main_top6, Inf)
+2015-11-15_09-55-39 elapsed_time_stop: STOP: main_top6, Inf) ~= [s/m/h] 3963.58    66.06    1.10 
+2015-11-15_09-55-55 elapsed_time_init: INIT: main_top10, Inf)
+2015-11-15_09-59-37 elapsed_time_stop: STOP: main_top10, Inf) ~= [s/m/h] 222.20     3.70     0.06 
+2015-11-15_11-24-29 elapsed_time_init: INIT: fromto(10, 10)
+2015-11-15_15-32-45 elapsed_time_stop: STOP: fromto(10, 10) ~= [s/m/h] 14896.01   248.27   4.14 
+2015-11-15_16-07-19 elapsed_time_init: INIT: main_top11, Inf)
+2015-11-16_17-16-41 elapsed_time_stop: STOP: main_top11, Inf) ~= [s/m/h] 90561.87   1509.36  25.16
+2015-11-16_17-16-59 elapsed_time_init: INIT: main_top31, Inf)
+2015-11-16_17-18-45 elapsed_time_stop: STOP: main_top31, Inf) ~= [s/m/h] 105.95     1.77     0.03 
+2015-11-16_17-33-33 elapsed_time_init: INIT: main_top31, Inf)
+2015-11-16_20-07-39 elapsed_time_stop: STOP: main_top31, Inf) ~= [s/m/h] 9245.96    154.10   2.57 
+2015-11-17_07-13-56 elapsed_time_init: INIT: main_top4, Inf)
+2015-11-18_10-47-54 elapsed_time_stop: STOP: main_top4, Inf) ~= [s/m/h] 99237.27   1653.95  27.57
+2015-11-19_12-57-07 elapsed_time_init: INIT: fromto(32, 32)
+2015-11-19_13-06-15 elapsed_time_stop: STOP: fromto(32, 32) ~= [s/m/h] 548.67     9.14     0.15 
+2015-11-25_07-19-22 elapsed_time_init: INIT: main_top25, Inf)
+2015-11-25_11-00-36 elapsed_time_stop: STOP: main_top25, Inf) ~= [s/m/h] 13273.90   221.23   3.69 
+2015-11-29_13-19-08 elapsed_time_init: INIT: fromto(10, 28)
+2015-11-29_16-59-53 elapsed_time_init: INIT: fromto(10, 28)
+2015-11-30_07-41-58 elapsed_time_init: INIT: fromto(10, 28)
+2015-11-30_21-28-02 elapsed_time_stop: STOP: fromto(10, 28) ~= [s/m/h] 49563.83   826.06   13.77
+2015-12-01_07-37-47 elapsed_time_init: INIT: fromto(15, 28)
+2015-12-02_07-37-34 elapsed_time_init: INIT: fromto(23, 28)
+2015-12-02_21-37-54 elapsed_time_stop: STOP: fromto(23, 28) ~= [s/m/h] 50419.73   840.33   14.01
+2015-12-03_07-26-46 elapsed_time_init: INIT: fromto(15, 29)
+2015-12-03_07-38-06 elapsed_time_init: INIT: fromto(15, 29)
+2015-12-03_08-33-56 elapsed_time_stop: STOP: fromto(15, 29) ~= [s/m/h] 3350.37    55.84    0.93 
+2015-12-03_08-34-37 elapsed_time_init: INIT: fromto(16, 29)
+2015-12-04_16-36-02 elapsed_time_stop: STOP: fromto(16, 29) ~= [s/m/h] 115285.43  1921.42  32.02
+2015-12-05_14-30-30 elapsed_time_init: INIT: fromto(10, 29)
+2015-12-06_14-06-30 elapsed_time_stop: STOP: fromto(10, 29) ~= [s/m/h] 84984.18   1416.40  23.61
+2015-12-06_16-15-05 elapsed_time_init: INIT: main_top1, Inf)
+2015-12-07_06-56-12 elapsed_time_stop: STOP: main_top1, Inf) ~= [s/m/h] 52866.57   881.11   14.69
+2015-12-07_09-15-10 elapsed_time_init: INIT: main_top4, Inf)
+2015-12-08_11-58-04 elapsed_time_stop: STOP: main_top4, Inf) ~= [s/m/h] 96173.81   1602.90  26.71
+2015-12-08_13-09-52 elapsed_time_init: INIT: fromto(31, 31)
+2015-12-08_13-10-43 elapsed_time_stop: STOP: fromto(31, 31) ~= [s/m/h] 50.79      0.85     0.01 
+2015-12-08_16-30-18 elapsed_time_init: INIT: fromto(31, 31)
+2015-12-08_16-36-26 elapsed_time_stop: STOP: fromto(31, 31) ~= [s/m/h] 368.69     6.14     0.10 
+2015-12-13_14-13-34 elapsed_time_init: INIT: fromto(5, 6)
+2015-12-13_14-27-01 elapsed_time_stop: STOP: fromto(5, 6) ~= [s/m/h] 806.87     13.45    0.22 
+2015-12-13_14-27-13 elapsed_time_init: INIT: fromto(5, 6)
+2015-12-13_14-32-12 elapsed_time_stop: STOP: fromto(5, 6) ~= [s/m/h] 299.52     4.99     0.08 
+2015-12-13_15-11-35 elapsed_time_init: INIT: fromto(5, 6)
+2015-12-13_15-20-31 elapsed_time_stop: STOP: fromto(5, 6) ~= [s/m/h] 536.02     8.93     0.15 
+2015-12-13_18-40-02 elapsed_time_init: INIT: main_top4, Inf)
+2015-12-13_20-48-01 elapsed_time_stop: STOP: main_top4, Inf) ~= [s/m/h] 7679.70    127.99   2.13 
+2015-12-13_20-50-01 elapsed_time_init: INIT: main_top4, Inf)
+2015-12-15_05-12-03 elapsed_time_stop: STOP: main_top4, Inf) ~= [s/m/h] 116522.06  1942.03  32.37
+2015-12-16_09-10-16 elapsed_time_init: INIT: main_top5, Inf)
+2015-12-17_10-12-51 elapsed_time_stop: STOP: main_top5, Inf) ~= [s/m/h] 90154.76   1502.58  25.04
+2015-12-18_08-59-30 elapsed_time_init: INIT: main_top5, Inf)
+2015-12-18_09-04-52 elapsed_time_init: INIT: fromto(5, 6)
+2015-12-18_09-21-59 elapsed_time_stop: STOP: fromto(5, 6) ~= [s/m/h] 1027.00    17.12    0.29 
+2015-12-18_09-33-33 elapsed_time_init: INIT: main_top5, Inf)
+2015-12-18_16-06-53 elapsed_time_stop: STOP: main_top5, Inf) ~= [s/m/h] 23599.93   393.33   6.56 
+2015-12-18_16-11-04 elapsed_time_init: INIT: fromto(14, 14)
+2015-12-18_16-41-49 elapsed_time_stop: STOP: fromto(14, 14) ~= [s/m/h] 1845.02    30.75    0.51 
+2015-12-18_17-58-07 elapsed_time_init: INIT: fromto(19, 19)
+2015-12-18_20-39-24 elapsed_time_init: INIT: fromto(5, 20)
+2015-12-19_09-05-06 elapsed_time_stop: STOP: fromto(5, 20) ~= [s/m/h] 44742.80   745.71   12.43
+2015-12-20_07-49-20 elapsed_time_init: INIT: fromto(5, 14)
+2015-12-20_13-26-39 elapsed_time_stop: STOP: fromto(5, 14) ~= [s/m/h] 20239.16   337.32   5.62 
+2015-12-20_13-32-15 elapsed_time_init: INIT: fromto(12, 14)
+2015-12-20_14-01-06 elapsed_time_stop: STOP: fromto(12, 14) ~= [s/m/h] 1731.19    28.85    0.48 
+2015-12-20_16-57-07 elapsed_time_init: INIT: fromto(15, 16)
+2015-12-20_17-00-07 elapsed_time_stop: STOP: fromto(15, 16) ~= [s/m/h] 180.15     3.00     0.05 
+2015-12-20_17-30-45 elapsed_time_init: INIT: main_top15, Inf)
+2015-12-21_15-16-10 elapsed_time_init: INIT: main_top15, Inf)
+2015-12-22_10-26-17 elapsed_time_stop: STOP: main_top15, Inf) ~= [s/m/h] 69007.17   1150.12  19.17
+2016-01-01_17-56-17 elapsed_time_init: INIT: main_top1, Inf)
+2016-01-03_07-03-56 elapsed_time_stop: STOP: main_top1, Inf) ~= [s/m/h] 133658.79  2227.65  37.13
+2016-01-03_07-52-03 elapsed_time_init: INIT: main_top37, Inf)
+2016-01-03_07-52-12 elapsed_time_stop: STOP: main_top37, Inf) ~= [s/m/h] 8.97       0.15     0.00 
+2016-01-30_21-05-54 elapsed_time_init: INIT: main_top1, Inf)
+2016-02-01_06-49-29 elapsed_time_stop: STOP: main_top1, Inf) ~= [s/m/h] 121415.29  2023.59  33.73
+2016-02-04_16-37-48 elapsed_time_init: INIT: main_top34, Inf)
+2016-02-04_16-39-02 elapsed_time_stop: STOP: main_top34, Inf) ~= [s/m/h] 74.32      1.24     0.02 
+2016-02-04_16-58-35 elapsed_time_init: INIT: main_top34, Inf)
+2016-02-04_19-20-51 elapsed_time_stop: STOP: main_top34, Inf) ~= [s/m/h] 8535.61    142.26   2.37 
+2016-02-05_15-58-48 elapsed_time_init: INIT: main_top34, Inf)
+2016-02-05_18-17-27 elapsed_time_stop: STOP: main_top34, Inf) ~= [s/m/h] 8319.88    138.66   2.31 
+2016-02-06_11-46-08 elapsed_time_init: INIT: main_top34, Inf)
+2016-02-06_14-03-00 elapsed_time_stop: STOP: main_top34, Inf) ~= [s/m/h] 8211.41    136.86   2.28 
+2016-03-05_16-56-39 elapsed_time_init: INIT: main_top1, Inf)
+2016-03-07_04-08-22 elapsed_time_stop: STOP: main_top1, Inf) ~= [s/m/h] 126702.80  2111.71  35.20
+2016-03-07_11-13-44 elapsed_time_init: INIT: main_top30, Inf)
+2016-03-07_13-39-39 elapsed_time_stop: STOP: main_top30, Inf) ~= [s/m/h] 8754.65    145.91   2.43 
+2016-03-11_18-14-08 elapsed_time_init:   INIT: fromto(21, 24)
+2016-03-11_20-10-49 elapsed_time_stop:   STOP: fromto(21, 24) ~= [s/m/h] 7000.33    116.67   1.94 
+2016-03-12_06-14-55 elapsed_time_init: INIT: fromto(21, 21)
+2016-03-12_06-52-15 elapsed_time_stop: STOP: fromto(21, 21) ~= [s/m/h] 2239.28    37.32    0.62 
+2016-03-12_06-56-26 elapsed_time_init: INIT: fromto(22, 24)
+2016-03-12_07-50-25 elapsed_time_stop: STOP: fromto(22, 24) ~= [s/m/h] 3238.52    53.98    0.90 
+2016-03-12_08-03-09 elapsed_time_init: INIT: fromto(25, 31)
+2016-03-12_11-36-29 elapsed_time_stop: STOP: fromto(25, 31) ~= [s/m/h] 12800.65   213.34   3.56 
+2016-03-12_13-16-46 elapsed_time_init: INIT: fromto(18, 18)
+2016-03-12_15-17-46 elapsed_time_stop: STOP: fromto(18, 18) ~= [s/m/h] 7260.56    121.01   2.02 
+2016-03-12_15-38-56 elapsed_time_init: INIT: fromto(20, 31)
+2016-03-13_08-17-34 elapsed_time_init: INIT: fromto(23, 23)
+2016-03-13_08-54-26 elapsed_time_stop: STOP: fromto(23, 23) ~= [s/m/h] 2212.13    36.87    0.61 
+2016-03-13_10-00-43 elapsed_time_init: INIT: fromto(25, 31)
+2016-03-13_15-24-53 elapsed_time_stop: STOP: fromto(25, 31) ~= [s/m/h] 19449.97   324.17   5.40 
+2016-03-13_21-21-28 elapsed_time_init: INIT: fromto(23, 31)
+2016-03-14_02-00-32 elapsed_time_stop: STOP: fromto(23, 31) ~= [s/m/h] 16743.74   279.06   4.65 
+2016-03-14_10-54-00 elapsed_time_init: INIT: fromto(20, 31)
+2016-03-15_02-11-07 elapsed_time_stop: STOP: fromto(20, 31) ~= [s/m/h] 55026.12   917.10   15.29
+2016-03-15_08-10-42 elapsed_time_init: INIT: fromto(23, 32)
+2016-03-15_10-55-14 elapsed_time_stop: STOP: fromto(23, 32) ~= [s/m/h] 9872.91    164.55   2.74 
+2016-03-15_10-55-21 elapsed_time_init: INIT: fromto(23, 32)
+2016-03-15_10-58-13 elapsed_time_stop: STOP: fromto(23, 32) ~= [s/m/h] 171.90     2.87     0.05 
+2016-03-15_10-59-15 elapsed_time_init: INIT: fromto(23, 32)
+2016-03-15_11-07-13 elapsed_time_stop: STOP: fromto(23, 32) ~= [s/m/h] 478.63     7.98     0.13 
+2016-03-15_11-07-19 elapsed_time_init: INIT: fromto(23, 32)
+2016-03-15_21-12-10 elapsed_time_stop: STOP: fromto(23, 32) ~= [s/m/h] 36291.49   604.86   10.08
+2016-03-15_21-26-53 elapsed_time_init: INIT: fromto(33, 35)
+2016-03-15_21-34-34 elapsed_time_stop: STOP: fromto(33, 35) ~= [s/m/h] 461.18     7.69     0.13 
+2016-03-16_07-23-05 elapsed_time_init: INIT: fromto(23, 31)
+2016-03-16_20-50-54 elapsed_time_stop: STOP: fromto(23, 31) ~= [s/m/h] 48468.39   807.81   13.46
+2016-03-17_07-03-45 elapsed_time_init: INIT: fromto(30, 30)
+2016-03-17_07-03-55 elapsed_time_stop: STOP: fromto(30, 30) ~= [s/m/h] 10.75      0.18     0.00 
+2016-03-17_15-16-47 elapsed_time_init: INIT: fromto(23, 23)
+2016-03-17_15-18-20 elapsed_time_stop: STOP: fromto(23, 23) ~= [s/m/h] 92.73      1.55     0.03 
+2016-03-17_15-31-04 elapsed_time_init: INIT: fromto(23, 31)
+2016-03-17_22-09-45 elapsed_time_init: INIT: fromto(25, 33)
+2016-03-18_14-31-35 elapsed_time_stop: STOP: fromto(25, 33) ~= [s/m/h] 58909.52   981.83   16.36
+2016-03-18_15-20-42 elapsed_time_init: INIT: fromto(30, 33)
+2016-03-18_15-25-25 elapsed_time_stop: STOP: fromto(30, 33) ~= [s/m/h] 282.77     4.71     0.08 
+2016-03-18_15-38-35 elapsed_time_init: INIT: main_top30, Inf)
+2016-03-18_18-02-09 elapsed_time_stop: STOP: main_top30, Inf) ~= [s/m/h] 8614.17    143.57   2.39 
+2016-03-19_17-49-02 elapsed_time_init: INIT: fromto(23, 33)
+2016-03-19_17-50-07 elapsed_time_stop: STOP: fromto(23, 33) ~= [s/m/h] 64.21      1.07     0.02 
+2016-03-19_17-50-33 elapsed_time_init: INIT: fromto(23, 33)
+2016-03-20_10-09-19 elapsed_time_stop: STOP: fromto(23, 33) ~= [s/m/h] 58812.67   980.21   16.34
+2016-04-01_21-58-57 elapsed_time_init: INIT: main_top1, Inf)
+2016-04-02_06-42-36 elapsed_time_stop: STOP: main_top1, Inf) ~= [s/m/h] 31419.46   523.66   8.73 
+2016-04-02_07-43-40 elapsed_time_init: INIT: main_top(8, Inf)
+2016-04-03_06-58-39 elapsed_time_stop: STOP: main_top(8, Inf) ~= [s/m/h] 83717.98   1395.30  23.25
+2016-04-03_06-58-53 elapsed_time_init: INIT: main_top(37, Inf)
+2016-04-03_06-59-04 elapsed_time_stop: STOP: main_top(37, Inf) ~= [s/m/h] 10.89      0.18     0.00 
+2016-04-06_17-10-58 elapsed_time_init: INIT: fromto(15, 15)
+2016-04-06_17-12-21 elapsed_time_stop: STOP: fromto(15, 15) ~= [s/m/h] 83.29      1.39     0.02 
+2016-04-06_17-59-54 elapsed_time_init: INIT: main_top(15, Inf)
+2016-04-07_17-16-08 elapsed_time_stop: STOP: main_top(15, Inf) ~= [s/m/h] 83774.80   1396.25  23.27
+2016-04-20_06-46-37 elapsed_time_init: INIT: fromto(15, 15)
+2016-04-20_06-46-51 elapsed_time_stop: STOP: fromto(15, 15) ~= [s/m/h] 13.32      0.22     0.00 
+2016-05-02_09-00-16 elapsed_time_init: INIT: main_top(1, Inf)
+2016-05-04_06-54-47 elapsed_time_stop: STOP: main_top(1, Inf) ~= [s/m/h] 165271.21  2754.52  45.91
+2016-05-04_07-00-33 elapsed_time_init: INIT: fromto(37, 37)
+2016-05-04_07-00-43 elapsed_time_stop: STOP: fromto(37, 37) ~= [s/m/h] 10.69      0.18     0.00 
+2016-06-01_23-14-10 elapsed_time_init: INIT: main_top(1, Inf)
+2016-06-03_07-30-29 elapsed_time_stop: STOP: main_top(1, Inf) ~= [s/m/h] 116179.49  1936.32  32.27
+2016-06-03_07-33-14 elapsed_time_init: INIT: main_top(37, Inf)
+2016-06-03_07-33-20 elapsed_time_stop: STOP: main_top(37, Inf) ~= [s/m/h] 5.43       0.09     0.00 
+2016-07-06_13-59-26 elapsed_time_init: INIT: main_top(1, Inf)
+2016-07-07_22-02-52 elapsed_time_stop: STOP: main_top(1, Inf) ~= [s/m/h] 115405.58  1923.43  32.06
+2016-07-30_12-52-55 elapsed_time_init: INIT: main_top(1, Inf)
+2016-07-30_13-51-04 elapsed_time_stop: STOP: main_top(1, Inf) ~= [s/m/h] 3489.12    58.15    0.97 
+2016-07-30_15-06-44 elapsed_time_init: INIT: main_top(2, Inf)
+2016-08-01_04-55-33 elapsed_time_stop: STOP: main_top(2, Inf) ~= [s/m/h] 132519.71  2208.66  36.81
+2016-09-01_16-39-09 elapsed_time_init: INIT: main_top(1, Inf)
+2016-09-03_05-33-18 elapsed_time_stop: STOP: main_top(1, Inf) ~= [s/m/h] 132849.05  2214.15  36.90
+2016-10-01_07-47-08 elapsed_time_init: INIT: main_top(1, Inf)
+2016-10-02_11-30-47 elapsed_time_init: INIT: main_top(21, Inf)
+2016-10-03_05-25-30 elapsed_time_stop: STOP: main_top(21, Inf) ~= [s/m/h] 64483.46   1074.72  17.91

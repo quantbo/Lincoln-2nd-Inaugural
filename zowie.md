@@ -1,4 +1,4 @@
-#The ZOWIE!
+#The ZOWIE!!!!!!!!!!
 ##The More Zowie...
 ###The 2016-11-19 06:03: Added this line.
 The 
@@ -8,5 +8,4 @@ The This line added on 2016-11-19 06:02.
 The Cold plums.
 The Hot tamales.
 
-The Everything is the the. ABC.
-
+The THE is the THEE.

@@ -1,7 +1,7 @@
 Noodle recipe:
 
 noodles
-onions 
+white onions [fry them for a while in olive oil, until they are nice and sweet]
 sauerkraut
 broth [can be vegetable, mushroom, or onion]
 beans

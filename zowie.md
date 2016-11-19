@@ -8,4 +8,4 @@ The This line added on 2016-11-19 06:02.
 The Cold plums.
 The Hot tamales.
 
-The THE is the THEE.
+The THE is the THEE. And I bid you adieu.
